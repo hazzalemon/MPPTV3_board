@@ -4592,7 +4592,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:SOP-14_L8.6-W3.9-P1.27-LS6.0-BL-1"
 			(at 189.23 224.79 0)
 			(effects
 				(font
@@ -4611,6 +4611,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14"
+			(at 190.5 227.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C5145307"
 			(at 190.5 227.33 0)
 			(effects
 				(font
@@ -4790,6 +4799,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C2930007"
+			(at 226.06 219.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "8885dd3d-30f5-4d2c-b401-58a36ebad4dc")
 		)
@@ -4926,6 +4944,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C880603"
+			(at 111.76 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0c73880b-d095-48c2-877e-c1d680e263d0")
 		)
@@ -4995,6 +5022,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C880603"
+			(at 260.35 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "292835a9-21c7-42aa-b02b-6a5e3af3d8d0")
 		)
@@ -5038,7 +5074,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:SOP-14_L8.6-W3.9-P1.27-LS6.0-BL-1"
 			(at 207.01 199.39 0)
 			(effects
 				(font
@@ -5057,6 +5093,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14"
+			(at 208.28 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C5145307"
 			(at 208.28 201.93 0)
 			(effects
 				(font
@@ -5171,6 +5216,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C5156756"
+			(at 377.19 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "95431d28-72dd-4c71-bed3-fcd7c30d38d9")
 		)
@@ -5241,6 +5295,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C5156756"
+			(at 332.74 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1f30685f-d72b-4e5d-94ad-45426b7383ef")
 		)
@@ -5302,6 +5365,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 154.94 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2930007"
 			(at 154.94 208.28 0)
 			(effects
 				(font
@@ -5535,6 +5607,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C5156756"
+			(at 111.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "97a87d62-3478-4105-ad4b-8e75c02bb031")
 		)
@@ -5604,6 +5685,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C880603"
+			(at 274.32 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ec754df6-5e3c-4186-8c64-196d54aa6cc7")
 		)
@@ -5624,7 +5714,7 @@
 		(at 351.79 212.09 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "4164b9f2-59a7-4300-8f85-29ef75a836b8")
@@ -5819,6 +5909,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C500733"
+			(at 322.58 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3d578b3c-e8bd-47c2-adf7-5634a19705d0")
 		)
@@ -5956,6 +6055,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C5156756"
+			(at 85.09 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a911ce74-1bf3-4dc5-9d73-7c104d48de1c")
 		)
@@ -6018,6 +6126,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 341.63 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C5156756"
 			(at 341.63 138.43 0)
 			(effects
 				(font
@@ -6096,6 +6213,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C2930007"
+			(at 68.58 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "56b4d41f-5ae5-4c4d-816b-f0cf173aa17a")
 		)
@@ -6158,6 +6284,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 49.53 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C500733"
 			(at 49.53 186.69 0)
 			(effects
 				(font
@@ -6235,6 +6370,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C880603"
+			(at 254 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1b376a8e-0b38-48bc-b7ee-07df1757e5c7")
 		)
@@ -6276,7 +6420,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:SOP-14_L8.6-W3.9-P1.27-LS6.0-BL-1"
 			(at 189.23 210.82 0)
 			(effects
 				(font
@@ -6295,6 +6439,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14"
+			(at 190.5 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C5145307"
 			(at 190.5 213.36 0)
 			(effects
 				(font
@@ -6583,7 +6736,7 @@
 		(at 58.42 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6477caf1-1b7d-4c48-8769-f82374eff2d7")
@@ -6778,6 +6931,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C880603"
+			(at 97.79 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1099e504-cf0e-4ab8-a98d-a8c5dba75858")
 		)
@@ -6865,7 +7027,7 @@
 		(at 346.71 212.09 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "7ce6a584-9699-4f91-ad27-e808d8f19a4c")
@@ -7192,6 +7354,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C5156756"
+			(at 350.52 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1cddfbd0-9a59-4d57-83e0-60ce48ea3b25")
 		)
@@ -7262,6 +7433,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C5156756"
+			(at 93.98 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "52bd4c33-69d7-4810-bb1c-ee71ada30107")
 		)
@@ -7282,7 +7462,7 @@
 		(at 53.34 147.32 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "92179bf6-a140-4de8-9826-2646fc43ba51")
@@ -7400,6 +7580,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14"
+			(at 190.5 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C5145307"
 			(at 190.5 201.93 0)
 			(effects
 				(font
@@ -7579,6 +7768,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C103915"
+			(at 312.42 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "9a4fd18d-9197-4dfa-852a-3f6afbdf46c6")
 		)
@@ -7715,6 +7913,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C5156756"
+			(at 76.2 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "32d9101f-282b-44b7-a3b3-3ddf065a6a62")
 		)
@@ -7777,6 +7984,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 68.58 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C103915"
 			(at 68.58 146.05 0)
 			(effects
 				(font
@@ -7854,6 +8070,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C2930007"
+			(at 312.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "5563f9c7-d4c0-4130-bc40-e8c8f969718e")
 		)
@@ -7895,7 +8120,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "easyeda2kicad:SOP-14_L8.6-W3.9-P1.27-LS6.0-BL-1"
 			(at 189.23 237.49 0)
 			(effects
 				(font
@@ -7914,6 +8139,15 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, DIP-14/SOIC-14/TSSOP-14"
+			(at 190.5 240.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C5145307"
 			(at 190.5 240.03 0)
 			(effects
 				(font
@@ -8227,6 +8461,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C880603"
+			(at 281.94 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "97ef2627-292b-49f3-98fe-8bf24f9725d0")
 		)
@@ -8289,6 +8532,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 90.17 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C880603"
 			(at 90.17 186.69 0)
 			(effects
 				(font
@@ -8670,6 +8922,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C5156756"
+			(at 120.65 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f0f06681-c6f8-490b-84b8-a865aa6b12fe")
 		)
@@ -8805,6 +9066,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C2930007"
+			(at 154.94 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "529c1529-9b43-4732-861e-44d58344cd93")
 		)
@@ -8932,6 +9202,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 154.94 199.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2930007"
 			(at 154.94 199.39 0)
 			(effects
 				(font
@@ -9274,6 +9553,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C880603"
+			(at 118.11 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "30e88629-6672-428c-9e0d-fc9116c62626")
 		)
@@ -9344,6 +9632,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C5156756"
+			(at 368.3 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d530870b-554f-4d2b-8a91-0b1ac18b1fe0")
 		)
@@ -9406,6 +9703,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 359.41 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C5156756"
 			(at 359.41 138.43 0)
 			(effects
 				(font
@@ -9543,6 +9849,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 102.87 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C5156756"
 			(at 102.87 138.43 0)
 			(effects
 				(font

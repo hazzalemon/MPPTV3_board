@@ -3246,7 +3246,7 @@
 		(at 111.76 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3437,7 +3437,7 @@
 				)
 			)
 		)
-		(property "Value" "4.2"
+		(property "Value" "4.3"
 			(at 170.18 105.41 90)
 			(effects
 				(font
@@ -3465,6 +3465,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 170.18 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2930039"
+			(at 170.18 107.95 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3544,6 +3553,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C2060768"
+			(at 160.02 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "6"
 			(uuid "6126309a-eaf4-4ed0-acf9-9193b7db7be3")
 		)
@@ -3599,7 +3617,7 @@
 				)
 			)
 		)
-		(property "Value" "4.2"
+		(property "Value" "4.3"
 			(at 101.6 71.12 90)
 			(effects
 				(font
@@ -3627,6 +3645,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 101.6 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2930039"
+			(at 101.6 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3765,17 +3792,16 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4c690010-48fe-44c0-9e6e-b888e53d94a9")
 		(property "Reference" "R38"
-			(at 171.45 67.31 90)
+			(at 170.18 67.818 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "4.2"
+		(property "Value" "4.3"
 			(at 171.45 69.85 90)
 			(effects
 				(font
@@ -3803,6 +3829,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 171.45 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2930039"
+			(at 171.45 72.39 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3904,7 +3939,7 @@
 		(at 175.26 110.49 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3984,7 +4019,7 @@
 		(dnp no)
 		(uuid "54271011-d62a-4476-97ed-90306a21416a")
 		(property "Reference" "U2"
-			(at 171.45 62.2299 90)
+			(at 181.61 61.976 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3993,7 +4028,7 @@
 			)
 		)
 		(property "Value" "S130N10LF"
-			(at 171.45 64.7699 90)
+			(at 185.674 64.008 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4165,7 +4200,7 @@
 				)
 			)
 		)
-		(property "Value" "4.2"
+		(property "Value" "4.3"
 			(at 107.95 97.79 90)
 			(effects
 				(font
@@ -4193,6 +4228,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 107.95 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C2930039"
+			(at 107.95 100.33 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4273,6 +4317,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C880603"
+			(at 134.62 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "02d6915a-c302-4630-ab9b-9c9bed1b377e")
 		)
@@ -4300,10 +4353,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7bf733e3-fb3c-40aa-8a77-2082f18420c5")
 		(property "Reference" "D27"
-			(at 171.45 69.85 0)
+			(at 171.45 80.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4311,7 +4363,7 @@
 			)
 		)
 		(property "Value" "B16WS_C7420327"
-			(at 171.45 72.39 0)
+			(at 171.196 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4552,7 +4604,7 @@
 		(at 137.16 77.47 270)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4938,7 +4990,7 @@
 				)
 			)
 		)
-		(property "Value" "1m"
+		(property "Value" "2m"
 			(at 148.59 74.93 90)
 			(effects
 				(font
@@ -4966,6 +5018,15 @@
 		)
 		(property "Description" "Resistor, small symbol"
 			(at 148.59 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C160590"
+			(at 148.59 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1124,6 +1124,10 @@
 		(color 0 0 0 0)
 		(uuid "f5ffbd14-3a23-4456-af6d-deea3e5eca12")
 	)
+	(no_connect
+		(at 176.53 102.87)
+		(uuid "18d552c8-0654-41fb-ac7d-81e7c38c9aeb")
+	)
 	(wire
 		(pts
 			(xy 162.56 69.85) (xy 163.83 69.85)
@@ -2033,7 +2037,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "B16WS_C7420327"
+		(property "Value" "B110WS"
 			(at 181.61 119.3799 90)
 			(effects
 				(font
@@ -2069,7 +2073,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C7420327"
+		(property "LCSC Part" "C7461125"
 			(at 189.23 118.11 0)
 			(effects
 				(font
@@ -2142,6 +2146,15 @@
 			)
 		)
 		(property "Description" "Zener diode"
+			(at 167.64 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C20611962"
 			(at 167.64 58.42 0)
 			(effects
 				(font
@@ -2224,6 +2237,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C609906"
+			(at 180.34 92.71 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "81673f3a-f045-4bab-a065-636d773f8cec")
 		)
@@ -2297,6 +2319,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C466612"
+			(at 137.16 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f4744718-ff90-4601-9b03-b2671053f231")
 		)
@@ -2334,7 +2365,7 @@
 				)
 			)
 		)
-		(property "Value" "B16WS_C7420327"
+		(property "Value" "B110WS"
 			(at 171.45 41.91 0)
 			(effects
 				(font
@@ -2369,7 +2400,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C7420327"
+		(property "LCSC Part" "C7461125"
 			(at 171.45 35.56 0)
 			(effects
 				(font
@@ -2415,7 +2446,7 @@
 				)
 			)
 		)
-		(property "Value" "XJNG2103"
+		(property "Value" "UCC27211DR"
 			(at 156.21 123.19 0)
 			(effects
 				(font
@@ -2450,7 +2481,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C2887735"
+		(property "LCSC Part" "C2871979"
 			(at 156.21 146.05 0)
 			(effects
 				(font
@@ -2551,6 +2582,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C25905"
+			(at 191.77 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "05d36368-2e41-45af-924f-dde3c0927dfb")
 		)
@@ -2588,7 +2628,7 @@
 				)
 			)
 		)
-		(property "Value" "B16WS_C7420327"
+		(property "Value" "B110WS"
 			(at 156.21 115.57 0)
 			(effects
 				(font
@@ -2623,7 +2663,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C7420327"
+		(property "LCSC Part" "C7461125"
 			(at 156.21 129.54 0)
 			(effects
 				(font
@@ -2705,6 +2745,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C609906"
+			(at 167.64 64.77 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3bd54635-8b60-4abb-b5e3-a7425e39db46")
 		)
@@ -2742,7 +2791,7 @@
 				)
 			)
 		)
-		(property "Value" "XJNG2103"
+		(property "Value" "UCC27211DR"
 			(at 153.67 64.77 0)
 			(effects
 				(font
@@ -2777,7 +2826,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C2887735"
+		(property "LCSC Part" "C2871979"
 			(at 153.67 87.63 0)
 			(effects
 				(font
@@ -2911,7 +2960,7 @@
 				)
 			)
 		)
-		(property "Value" "B16WS_C7420327"
+		(property "Value" "B110WS"
 			(at 153.67 57.15 0)
 			(effects
 				(font
@@ -2946,7 +2995,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C7420327"
+		(property "LCSC Part" "C7461125"
 			(at 153.67 71.12 0)
 			(effects
 				(font
@@ -3027,6 +3076,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C20611962"
+			(at 170.18 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "80368382-3268-4f86-a90c-7a9ec2514384")
 		)
@@ -3056,14 +3114,14 @@
 		(dnp no)
 		(uuid "95635b80-68b6-4e3a-9644-6c04c9d2046f")
 		(property "Reference" "D13"
-			(at 172.72 93.98 0)
+			(at 172.72 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "B16WS_C7420327"
+		(property "Value" "B110WS"
 			(at 172.72 100.33 0)
 			(effects
 				(font
@@ -3098,7 +3156,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C7420327"
+		(property "LCSC Part" "C7461125"
 			(at 172.72 93.98 0)
 			(effects
 				(font
@@ -3145,7 +3203,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "B16WS_C7420327"
+		(property "Value" "B110WS"
 			(at 179.07 60.9599 90)
 			(effects
 				(font
@@ -3181,7 +3239,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C7420327"
+		(property "LCSC Part" "C7461125"
 			(at 186.69 59.69 0)
 			(effects
 				(font
@@ -3264,6 +3322,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part" "C25905"
+			(at 180.34 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3c01fea3-71a5-472b-82ab-72ad5bf132af")
 		)
@@ -3330,6 +3397,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 170.18 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C609906"
+			(at 170.18 123.19 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3472,6 +3548,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 139.7 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C466612"
 			(at 139.7 125.73 0)
 			(effects
 				(font
@@ -3687,6 +3772,15 @@
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
 			(at 191.77 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C609906"
+			(at 191.77 116.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
