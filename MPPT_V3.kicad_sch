@@ -2376,16 +2376,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 44.45) (xy 176.53 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "105af0a3-efd8-41da-83df-c5a930e016d3")
-	)
-	(wire
-		(pts
 			(xy 111.76 189.23) (xy 111.76 191.77)
 		)
 		(stroke
@@ -2943,16 +2933,6 @@
 			(type default)
 		)
 		(uuid "5a4d1fb6-2cd3-4fc9-a011-f2b032a35f32")
-	)
-	(wire
-		(pts
-			(xy 144.78 83.82) (xy 140.97 83.82)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5c44305e-0cbd-4abe-858c-5958908097a9")
 	)
 	(wire
 		(pts
@@ -3616,16 +3596,6 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 83.82) (xy 140.97 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4162be4-c3cd-4d5f-af6f-313fee753ac9")
-	)
-	(wire
-		(pts
 			(xy 325.12 163.83) (xy 334.01 163.83)
 		)
 		(stroke
@@ -3733,16 +3703,6 @@
 			(type default)
 		)
 		(uuid "c68c047a-4d9b-4273-9241-8326a2b9ac0c")
-	)
-	(wire
-		(pts
-			(xy 140.97 59.69) (xy 181.61 59.69)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7d7584d-2d2b-47c4-98be-a11fddd4d0a6")
 	)
 	(wire
 		(pts
@@ -4083,16 +4043,6 @@
 			(type default)
 		)
 		(uuid "fd8d1c03-6385-45ae-ab9d-8ad1d30de174")
-	)
-	(wire
-		(pts
-			(xy 181.61 59.69) (xy 181.61 44.45)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fdb6489c-4d85-426d-8f3a-4483c49f00a4")
 	)
 	(wire
 		(pts
@@ -10087,16 +10037,6 @@
 				(justify right)
 			)
 			(uuid "cd54bbbc-8010-4969-9179-fc7bb69f9c93")
-		)
-		(pin "Charge_pump_IN" input
-			(at 144.78 83.82 180)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-			(uuid "102129ea-e6aa-4306-a5dc-e1d0b7a4bac9")
 		)
 		(instances
 			(project "MPPT_V3"
